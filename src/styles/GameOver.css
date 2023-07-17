@@ -1,0 +1,13 @@
+.gameover h2 span {
+  font-size: 1.5em;
+}
+
+.gameover h1 {
+  font-size: 70px;
+}
+
+.gameover {
+  justify-content: center;
+  align-items: center;
+  margin-top: 3%;
+}
